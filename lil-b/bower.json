@@ -1,0 +1,17 @@
+{
+  "name": "lil-b",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ItsJonQ/itsjonq.github.io",
+  "authors": [
+    "ItsJonQ <itsjonq@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
